@@ -1,3 +1,4 @@
+# 👨‍💻 Flutter Learning Journey – Day 1
 # Dart Basics – Day 1 Practice
 Dart is a client-optimized, object-oriented language by Google, mainly used with Flutter to build mobile, web, and desktop apps.
 It is:
@@ -37,4 +38,5 @@ Great for building fast and scalable UIs
 - `06_interpolation.dart`
 - `07_practice_tasks.dart`
 - `08_quiz_review.dart`
-  ...
+
+  
