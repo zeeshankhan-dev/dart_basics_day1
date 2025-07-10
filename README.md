@@ -39,4 +39,26 @@ Great for building fast and scalable UIs
 - `07_practice_tasks.dart`
 - `08_quiz_review.dart`
 
+
+### 🧪 Practice Tasks
+- Declared and printed personal information
+- Practiced with `dynamic`, `final`, and `const`
+- Used string interpolation in various scenarios
+
+  ### 📂 Repository Structure
+
+dart_basics_day1/
+
+├── bin/
+
+│   └── main.dart
+
+    └── 01_hello_world.dart
+
+     └──02_variables.dart
+
+      └── .....08_quiz_review.dart
+
+├── pubspec.yaml
+
   
